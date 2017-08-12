@@ -1,2 +1,4 @@
-# engineer-humanizer
+# Engineer Humanizer
 Submission at Project Cipher's Bonfire 2017 Hackathon.
+
+Code monkey. Robot. Machine. Programmers are called names like this all the time, and often for good reason. They delve so deeply into the software world that they seem to lose their human side, and similarly their software is designed without the human user in mind. I wanted to solve this. I wanted to create a solution that would bring the human side back to coders. Throughout this hackathon, I learned much about natural language processing, machine learning, and AI--especially with TensorFlow in Python. But these sophisticated libraries proved no match for the elegant solution I am about to unveil. What better way to show programmers their human side than to show them the very thing that made them lose their human side in the first place. Their gateway to the software world. "Hello, World!"
